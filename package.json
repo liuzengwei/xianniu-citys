@@ -1,12 +1,14 @@
 {
   "name": "xianniu-citys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "省市区静态资源",
   "main": "lib/citys.js",
   "scripts": {
     "citys": "node build/script.js"
   },
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "type": "module",
   "keywords": [
     "xianniu",
