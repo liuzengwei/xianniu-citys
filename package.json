@@ -4,7 +4,6 @@
   "description": "省市区静态资源",
   "main": "lib/citys.js",
   "scripts": {
-    "build": "gulp minjs",
     "citys": "node build/script.js"
   },
   "files": ["lib"],
