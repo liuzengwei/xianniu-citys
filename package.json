@@ -4,7 +4,7 @@
   "description": "省市区静态资源",
   "main": "lib/area.js",
   "scripts": {
-    "mini": "node build/gulpfile.js"
+    "jsmini": "node build/gulpfile.js"
   },
   "files": [
     "lib"
