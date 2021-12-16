@@ -2,14 +2,13 @@
   "name": "xianniu-citys",
   "version": "1.0.1",
   "description": "省市区静态资源",
-  "main": "lib/citys.js",
+  "main": "lib/area.js",
   "scripts": {
-    "citys": "node build/script.js"
+    "mini": "node build/gulpfile.js"
   },
   "files": [
     "lib"
   ],
-  "type": "module",
   "keywords": [
     "xianniu",
     "citys"
@@ -19,6 +18,11 @@
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
-    "json-templater": "^1.2.0"
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "json-templater": "^1.2.0",
+    "pump": "^3.0.0",
+    "readable-stream": "^3.6.0",
+    "uglify-js": "^3.14.5"
   }
 }
