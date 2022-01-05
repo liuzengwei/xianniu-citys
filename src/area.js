@@ -7119,24 +7119,30 @@ export default [{
         {
             'cityName': '鹤峰县',
             'cityCode': '422828'
-        },
-        {
-            'cityName': '仙桃市',
-            'cityCode': '429004'
-        },
-        {
-            'cityName': '潜江市',
-            'cityCode': '429005'
-        },
-        {
-            'cityName': '天门市',
-            'cityCode': '429006'
-        },
-        {
-            'cityName': '神农架林区',
-            'cityCode': '429021'
         }]
+    },{
+        'cityName': '省直辖县',
+        'cityCode': '422800',
+        'subCitys': [
+            {
+                'cityName': '仙桃市',
+                'cityCode': '429004'
+            },
+            {
+                'cityName': '潜江市',
+                'cityCode': '429005'
+            },
+            {
+                'cityName': '天门市',
+                'cityCode': '429006'
+            },
+            {
+                'cityName': '神农架林区',
+                'cityCode': '429021'
+            }
+        ]
     }]
+    
 },
 {
     'cityName': '湖南省',
