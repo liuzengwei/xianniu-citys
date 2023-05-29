@@ -12857,10 +12857,10 @@ export default [{
     'cityCode': '710000',
     'subCitys': [{
         'cityName': '全部',
-        'cityCode': '710001',
+        'cityCode': '710100',
         'subCitys': [{
             'cityName': '全部',
-            'cityCode': '710001',
+            'cityCode': '710101',
         }]
     }]
 },
@@ -12869,10 +12869,10 @@ export default [{
     'cityCode': '810000',
     'subCitys': [{
         'cityName': '全部',
-        'cityCode': '810000',
+        'cityCode': '810100',
         'subCitys': [{
             'cityName': '全部',
-            'cityCode': '810000',
+            'cityCode': '810101',
         }]
     }]
 },
@@ -12881,10 +12881,10 @@ export default [{
     'cityCode': '820000',
     'subCitys': [{
         'cityName': '全部',
-        'cityCode': '820000',
+        'cityCode': '820100',
         'subCitys': [{
             'cityName': '全部',
-            'cityCode': '820000',
+            'cityCode': '820101',
         }]
     }]
 }]
